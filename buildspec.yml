@@ -8,7 +8,7 @@ phases:
             - echo "installing something"
     pre_build:
         commands: 
-            - echo "we are in the pre build phase Nikola Tanurovski change!!!"
+            - echo "Another Line added....Here --- we are in the pre build phase Nikola Tanurovski change!!!"
     build:
         commands:
             - echo "we are in the build block"
